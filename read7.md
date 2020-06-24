@@ -32,16 +32,14 @@ rutern area;
 }
 
 
-#notes
-> 
-JavaScript distinguishes between numbers (0-9), 
+# notes
+> JavaScript distinguishes between numbers (0-9), 
 strings (text), and Boolean values (true or false)
 
->
-Expressions rely on operators to calculate a value
+> Expressions rely on operators to calculate a value
 
->
-Scripts contain very precise instructions. For example, you might specify that a value must be remembered before creating a calculation using that value. 
+> Scripts contain very precise instructions. For example, you might specify that a value must be remembered before creating a calculation using that value. 
+
 
 
 

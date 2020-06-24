@@ -15,9 +15,7 @@ computer is a machine (hardware) that receives and processes data according to t
 
 circuits & logic 
 
-> 
-
-*there is a simple circuits  turn the input from zero to 1*
+> *there is a simple circuits  turn the input from zero to 1*
 *Logic Circuits whose outputs are dependant on both their present inputs and their previous output state giving them some form of Memory. The outputs of Combinational Logic Circuits are only determined by the logical function of their current input state, logic “0” or logic “1”, at any given instant in time*
 
 
