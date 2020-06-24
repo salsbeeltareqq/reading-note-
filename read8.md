@@ -8,8 +8,8 @@ the oparetor | uses
 !==          | compares tow values cheak the data type and the value are  not the same 
 <            | less than
 <=           | less than or equel 
->            |greater than 
->=           |greater than or equel
+"> "           |greater than 
+">="          |greater than or equel
 
 
 
