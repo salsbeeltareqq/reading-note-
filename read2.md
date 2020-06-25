@@ -36,10 +36,11 @@ A great feature of any text editing software is code completion. Code completion
 
 
 ### examples
-NotePad++          | TextWrangler/BB Edit|
-------------       |  -------------      |                        
-Visual Studio Code |   Sublime Text      |
-Atom               | TextWrangler/BB Edit|
+
+NotePad++          | TextWrangler/BB Edit
+------------       |  -------------                              
+Visual Studio Code |   Sublime Text      
+Atom               | TextWrangler/BB Edit
 
 
 
