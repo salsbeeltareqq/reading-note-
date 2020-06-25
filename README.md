@@ -1,8 +1,8 @@
 read         | link url
 ------------ | -------------
-read2        | 
-read4        | 
+[read2]        | (https://github.com/salsbeeltareqq/reading-note-/blob/master/read2.md)
+[read4    ]    |(https://github.com/salsbeeltareqq/reading-note-/blob/master/read4.md)
 read5        |
 read6        |
-read7        |(https://salsbeeltareqq.github.io/reading-note-/)
+read7        |
 read8        |
